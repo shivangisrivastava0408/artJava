@@ -2,7 +2,7 @@
 // RULES & CONVENTIONS
 public class NoviceWelcome  {
    public static void main(String args[]){
-      System.out.println("welgo");
+      System.out.println("Welcome, Aman !");
       add(1,2);
    }
    public static void add (int num1, int num2){
